@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**LeannonS/LeannonS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<br>
+<div>
+  <a href="https://github.com/LeannonS">
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=LeannonS&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/ hspace=30>
+  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeannonS&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>   
+  
+  ##
+  ### Contatos
+<a href = "mailto:leanndrosousac@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
